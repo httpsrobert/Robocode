@@ -1,0 +1,1 @@
+A ideia dos Robos se baseia num ditado bem conhecido, mais vale um Covarde Vivo do que um Heroi Morto, então desse ditado surgiu minha ideia de fazer estes robos, o robo1 é o covarde, o objetivo dele é fugir e comprar tempo o maximo possivel, já o robo2, ele tem como função fazer a escolta do robo1, atuando como o heroi 
